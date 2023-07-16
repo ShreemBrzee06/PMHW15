@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11d2bc66-94d0-4867-8a4d-bd92e2b16383" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PMHW15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/pages/RegisterPge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/main/java/com/parabank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/AccountStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/LoginStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/RegisterStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/featurefile/accountpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/featurefile/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-parabank-sw-3/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/com/cvlibrary/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/com/cvlibrary/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/com/cvlibrary/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/com/cvlibrary/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/com/cvlibrary/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/com/cvlibrary/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/com/cvlibrary/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/com/cvlibrary/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/com/cvlibrary/cucumber/steps/ResultStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/featurefile/jobsearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/pages/WorkType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/main/java/com/homeoffice/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/DurationOfStayStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/FamilyImmigrationStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/NationalityStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/ReasonForVisitStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/ResultMessageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/com/homeoffice/cucumber/steps/WorkTypeStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/resources/featurefile/visaconfirmationtest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_office_visa/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/cucumber/steps/ComputerPageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/computerpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S7BsdDNCbPE5yQ285NcjzrQVSv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/HOMEWORK/PMHW15/nopcommerce&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HOMEWORK\PMHW15\nopcommerce\src\main\java\com\nopcommerce" />
+      <recent name="C:\HOMEWORK\PMHW15\nopcommerce\src\test\java\com\nopcommerce" />
+      <recent name="C:\HOMEWORK\PMHW15\nopcommerce\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce.pages" />
+      <recent name="com.nopcommerce" />
+      <recent name="com.nopcommerce.runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: As a user Test name verifyProductAddedToShoppingCartSuccessFully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/computerpage.feature" />
+      <option name="GLUE" value="com.nopcommerce.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="nopcommerce" />
+      <option name="NAME_FILTER" value="^As a user Test name verifyProductAddedToShoppingCartSuccessFully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^As a user Test name verifyProductAddedToShoppingCartSuccessFully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: As a user Test name verifyProductAddedToShoppingCartSuccessFully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Test name verifyProductArrangeInAlphaBaticalOrder" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/computerpage.feature" />
+      <option name="GLUE" value="com.nopcommerce.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="nopcommerce" />
+      <option name="NAME_FILTER" value="^Test name verifyProductArrangeInAlphaBaticalOrder$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Test name verifyProductArrangeInAlphaBaticalOrder$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Test name verifyProductArrangeInAlphaBaticalOrder" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should be able to  login successfully with valid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="nopcommerce" />
+      <option name="NAME_FILTER" value="^User should be able to  login successfully with valid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User should be able to  login successfully with valid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should be able to  login successfully with valid credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.cucumber.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: As a user Test name verifyProductAddedToShoppingCartSuccessFully" />
+        <item itemvalue="Cucumber Java.Scenario: Test name verifyProductArrangeInAlphaBaticalOrder" />
+        <item itemvalue="Cucumber Java.Scenario: User should be able to  login successfully with valid credentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d2bc66-94d0-4867-8a4d-bd92e2b16383" name="Changes" comment="" />
+      <created>1688487949710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688487949710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nopcommerce/cucumber/runner/TestRunner.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

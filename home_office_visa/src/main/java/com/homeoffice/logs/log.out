@@ -1,0 +1,268 @@
+2023-07-03 10:07:11 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:648 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:04 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:204 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:10 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:512 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 10:07:744 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:741 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:233 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (0e8ecf4bb2a3a616f0ad98aaf589ef3c)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 11:07:308 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (0e8ecf4bb2a3a616f0ad98aaf589ef3c)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 11:07:599 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 11:07:706 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (0e8ecf4bb2a3a616f0ad98aaf589ef3c)] -> css selector: #current-question>button]
+2023-07-03 11:07:01 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (0e8ecf4bb2a3a616f0ad98aaf589ef3c)] -> css selector: input#response-0]
+2023-07-03 11:07:45 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (0e8ecf4bb2a3a616f0ad98aaf589ef3c)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 11:07:231 INFO  ResultPage :43 - confirm result messageYou will not need a visa to come to the UK
+2023-07-03 11:07:309 INFO  ResultPage :31 - Actual Result MessageProxy element for: DefaultElementLocator 'By.cssSelector: #current-question>span'
+2023-07-03 11:07:159 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:658 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (83ce4d1e27a0a95753500dcc4b625a46)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 11:07:739 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (83ce4d1e27a0a95753500dcc4b625a46)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 11:07:44 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 11:07:150 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (83ce4d1e27a0a95753500dcc4b625a46)] -> css selector: #current-question>button]
+2023-07-03 11:07:443 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (83ce4d1e27a0a95753500dcc4b625a46)] -> css selector: input#response-0]
+2023-07-03 11:07:493 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (83ce4d1e27a0a95753500dcc4b625a46)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 11:07:659 INFO  ResultPage :49 - confirm result msgYou will not need a visa to come to the UK
+2023-07-03 11:07:304 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:816 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (68696fcb1366f60ed5472e900ae0cf6f)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 11:07:903 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (68696fcb1366f60ed5472e900ae0cf6f)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 11:07:189 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 11:07:313 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (68696fcb1366f60ed5472e900ae0cf6f)] -> css selector: #current-question>button]
+2023-07-03 11:07:596 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (68696fcb1366f60ed5472e900ae0cf6f)] -> css selector: input#response-0]
+2023-07-03 11:07:639 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (68696fcb1366f60ed5472e900ae0cf6f)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 11:07:898 INFO  ResultPage :31 - Actual Result MessageProxy element for: DefaultElementLocator 'By.cssSelector: #current-question>span'
+2023-07-03 11:07:847 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:393 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (11863460a3c7f5aa652e9132b1b3b8f0)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 11:07:482 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (11863460a3c7f5aa652e9132b1b3b8f0)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 11:07:889 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 11:07:29 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (11863460a3c7f5aa652e9132b1b3b8f0)] -> css selector: #current-question>button]
+2023-07-03 11:07:341 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (11863460a3c7f5aa652e9132b1b3b8f0)] -> css selector: input#response-0]
+2023-07-03 11:07:395 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (11863460a3c7f5aa652e9132b1b3b8f0)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 11:07:727 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 11:07:230 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 11:07:293 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 11:07:559 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 11:07:673 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> css selector: #current-question>button]
+2023-07-03 11:07:887 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> css selector: input#response-0]
+2023-07-03 11:07:935 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 11:07:170 INFO  ResultPage :37 - Actual Result message:[[ChromeDriver: chrome on WINDOWS (3f3eee1d554b541bf80a0ca6f89c7e85)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 12:07:390 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 12:07:792 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 12:07:885 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 12:07:75 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 12:07:236 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: #current-question>button]
+2023-07-03 12:07:543 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: input#response-1]
+2023-07-03 12:07:586 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: #current-question>button]
+2023-07-03 12:07:861 INFO  DurationOfStayPage :46 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 12:07:59 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: input#response-1]
+2023-07-03 12:07:90 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (faa34e2b05ccb19a4cb3b698be9a342a)] -> css selector: #current-question>button]
+2023-07-03 12:07:297 INFO  ResultPage :33 - Actual Result MessageProxy element for: DefaultElementLocator 'By.xpath: //h2[@class="gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6"]'
+2023-07-03 13:07:421 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 13:07:919 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 13:07:972 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 13:07:221 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 13:07:341 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: #current-question>button]
+2023-07-03 13:07:631 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: input#response-1]
+2023-07-03 13:07:671 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: #current-question>button]
+2023-07-03 13:07:937 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 13:07:142 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (55c3a3d74091af68ebb1aaa610a97848)] -> css selector: input#response-1]
+2023-07-03 13:07:443 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 13:07:822 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 13:07:875 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 13:07:132 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 13:07:226 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: #current-question>button]
+2023-07-03 13:07:432 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: input#response-1]
+2023-07-03 13:07:485 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: #current-question>button]
+2023-07-03 13:07:689 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 13:07:823 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (c5f3c7fb34b131e1afe079eb4711e1ca)] -> css selector: input#response-1]
+2023-07-03 13:07:958 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 13:07:410 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 13:07:463 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 13:07:752 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 13:07:882 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> css selector: #current-question>button]
+2023-07-03 13:07:203 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> css selector: input#response-1]
+2023-07-03 13:07:265 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> css selector: #current-question>button]
+2023-07-03 13:07:496 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (0333f3007f0aacd8f0e50d88c0d80afa)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 13:07:139 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 13:07:537 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 13:07:594 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 13:07:856 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 13:07:961 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> css selector: #current-question>button]
+2023-07-03 13:07:334 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> css selector: input#response-1]
+2023-07-03 13:07:376 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> css selector: #current-question>button]
+2023-07-03 13:07:647 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (fb723a37cebd8775f8908735ad81cd24)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:568 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:988 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:69 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:266 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:420 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: #current-question>button]
+2023-07-03 14:07:709 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: input#response-1]
+2023-07-03 14:07:760 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: #current-question>button]
+2023-07-03 14:07:45 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:263 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (d88f0260aea1ef60e1d69d755239a083)] -> css selector: input#response-0]
+2023-07-03 14:07:429 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:963 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:47 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:379 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:489 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: #current-question>button]
+2023-07-03 14:07:764 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: input#response-1]
+2023-07-03 14:07:811 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: #current-question>button]
+2023-07-03 14:07:104 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:311 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> css selector: input#response-0]
+2023-07-03 14:07:653 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (87be2ddab160646801f340ce441fc45e)] -> xpath: //h2[@class="gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6"]]
+2023-07-03 14:07:193 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:485 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:548 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:755 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:911 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: #current-question>button]
+2023-07-03 14:07:139 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: input#response-1]
+2023-07-03 14:07:177 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: #current-question>button]
+2023-07-03 14:07:362 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:558 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> css selector: input#response-0]
+2023-07-03 14:07:781 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (ed6bf69e1ae62e05b28497fbfa58f622)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:971 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:493 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:572 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:872 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:961 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: #current-question>button]
+2023-07-03 14:07:258 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: input#response-1]
+2023-07-03 14:07:306 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: #current-question>button]
+2023-07-03 14:07:592 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:823 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> css selector: input#response-0]
+2023-07-03 14:07:173 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (c514044144be826c2347ea2fe8635c47)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:342 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:895 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:971 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:265 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:396 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: #current-question>button]
+2023-07-03 14:07:660 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: input#response-1]
+2023-07-03 14:07:712 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: #current-question>button]
+2023-07-03 14:07:924 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:69 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> css selector: input#response-0]
+2023-07-03 14:07:275 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (25b78113ae463ba1a81793d5a87aaa75)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:889 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:367 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:441 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:664 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:853 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: #current-question>button]
+2023-07-03 14:07:142 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: input#response-1]
+2023-07-03 14:07:176 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: #current-question>button]
+2023-07-03 14:07:451 INFO  DurationOfStayPage :42 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:663 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> css selector: input#response-0]
+2023-07-03 14:07:973 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (abe866af68d8b7982d4547a90f43e593)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:80 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:455 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:537 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:741 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:892 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: #current-question>button]
+2023-07-03 14:07:198 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: input#response-1]
+2023-07-03 14:07:238 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: #current-question>button]
+2023-07-03 14:07:534 INFO  DurationOfStayPage :43 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:771 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> css selector: input#response-0]
+2023-07-03 14:07:95 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (972ab7b305755c90e5f4423546e8eabf)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:297 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:629 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:706 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:977 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:82 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: #current-question>button]
+2023-07-03 14:07:299 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: input#response-1]
+2023-07-03 14:07:348 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: #current-question>button]
+2023-07-03 14:07:502 INFO  DurationOfStayPage :37 - click on more than 6 months option[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: input#response-1]
+2023-07-03 14:07:539 INFO  DurationOfStayPage :43 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:781 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> css selector: input#response-0]
+2023-07-03 14:07:157 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (52c2b9fac3491474673947041ca46351)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 14:07:493 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 14:07:168 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 14:07:267 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 14:07:581 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 14:07:693 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: #current-question>button]
+2023-07-03 14:07:972 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: input#response-1]
+2023-07-03 14:07:22 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: #current-question>button]
+2023-07-03 14:07:220 INFO  DurationOfStayPage :37 - click on more than 6 months option[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: input#response-1]
+2023-07-03 14:07:287 INFO  DurationOfStayPage :43 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 14:07:452 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> css selector: input#response-0]
+2023-07-03 14:07:688 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (af1cb5f364936058f0dbaeafd8f97eeb)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 15:07:815 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:208 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:273 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:554 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 15:07:650 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: #current-question>button]
+2023-07-03 15:07:937 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: input#response-1]
+2023-07-03 15:07:984 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: #current-question>button]
+2023-07-03 15:07:237 INFO  DurationOfStayPage :37 - click on more than 6 months option[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: input#response-1]
+2023-07-03 15:07:284 INFO  DurationOfStayPage :43 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 15:07:527 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> css selector: input#response-0]
+2023-07-03 15:07:843 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (dc2dacbfd0739fafaa1f45293f4c4422)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 15:07:536 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:862 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (ae9d190f33a055ffec71a6305757c8c5)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:931 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (ae9d190f33a055ffec71a6305757c8c5)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:125 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:279 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (ae9d190f33a055ffec71a6305757c8c5)] -> css selector: #current-question>button]
+2023-07-03 15:07:566 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (ae9d190f33a055ffec71a6305757c8c5)] -> css selector: input#response-4]
+2023-07-03 15:07:624 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (ae9d190f33a055ffec71a6305757c8c5)] -> css selector: #current-question>button]
+2023-07-03 15:07:289 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:814 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (eaebfae7414f1d3f87093c3ede52734f)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:884 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (eaebfae7414f1d3f87093c3ede52734f)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:163 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:268 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (eaebfae7414f1d3f87093c3ede52734f)] -> css selector: #current-question>button]
+2023-07-03 15:07:607 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (eaebfae7414f1d3f87093c3ede52734f)] -> css selector: input#response-4]
+2023-07-03 15:07:663 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (eaebfae7414f1d3f87093c3ede52734f)] -> css selector: #current-question>button]
+2023-07-03 15:07:384 INFO  ResultPage :33 - Actual Result MessageProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']'
+2023-07-03 15:07:73 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:381 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (5d90a1e81c8ef2d752fae3eb2c0e7a0f)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:467 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (5d90a1e81c8ef2d752fae3eb2c0e7a0f)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:748 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:848 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (5d90a1e81c8ef2d752fae3eb2c0e7a0f)] -> css selector: #current-question>button]
+2023-07-03 15:07:154 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (5d90a1e81c8ef2d752fae3eb2c0e7a0f)] -> css selector: input#response-4]
+2023-07-03 15:07:213 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (5d90a1e81c8ef2d752fae3eb2c0e7a0f)] -> css selector: #current-question>button]
+2023-07-03 15:07:721 INFO  ResultPage :33 - Actual Result MessageProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']'
+2023-07-03 15:07:660 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:81 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (e70cc515674d9eae39a2bb64891f8b41)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:154 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (e70cc515674d9eae39a2bb64891f8b41)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:469 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:572 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (e70cc515674d9eae39a2bb64891f8b41)] -> css selector: #current-question>button]
+2023-07-03 15:07:816 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (e70cc515674d9eae39a2bb64891f8b41)] -> css selector: input#response-4]
+2023-07-03 15:07:874 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (e70cc515674d9eae39a2bb64891f8b41)] -> css selector: #current-question>button]
+2023-07-03 15:07:272 INFO  ResultPage :33 - Actual Result MessageProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']'
+2023-07-03 15:07:316 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:811 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:899 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:92 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:253 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> css selector: #current-question>button]
+2023-07-03 15:07:541 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> css selector: input#response-4]
+2023-07-03 15:07:588 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> css selector: #current-question>button]
+2023-07-03 15:07:203 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (e3c4786c41e6914fbbe0f189eba0cd7c)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 15:07:539 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:954 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:48 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:351 INFO  SelectNationalityPage :31 - nationality Australia
+2023-07-03 15:07:454 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> css selector: #current-question>button]
+2023-07-03 15:07:690 INFO  ReasonForTravelPage :52 - Click on Reason for visit[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> css selector: input#response-0]
+2023-07-03 15:07:741 INFO  ReasonForTravelPage :70 - Click on Continue button[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> css selector: button.gem-c-button--bottom-margin]
+2023-07-03 15:07:16 INFO  ResultPage :39 - Actual Result message:[[ChromeDriver: chrome on WINDOWS (a24ee1435424b2a2fa1d68c6537b0e62)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 15:07:657 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:915 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:975 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:250 INFO  SelectNationalityPage :31 - nationality Chile
+2023-07-03 15:07:368 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: #current-question>button]
+2023-07-03 15:07:685 INFO  ReasonForTravelPage :58 - Click on reason for visit1[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: input#response-1]
+2023-07-03 15:07:738 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: #current-question>button]
+2023-07-03 15:07:30 INFO  DurationOfStayPage :37 - click on more than 6 months option[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: input#response-1]
+2023-07-03 15:07:81 INFO  DurationOfStayPage :43 - Click on contiune button[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: button.gem-c-button.govuk-button.gem-c-button--bottom-margin]
+2023-07-03 15:07:302 INFO  WorkType :27 - Select Jobtype option[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> css selector: input#response-0]
+2023-07-03 15:07:672 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (6196289e4fe76482fedd6cb88c33aece)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-03 15:07:346 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-03 15:07:478 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-03 15:07:537 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-03 15:07:785 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-03 15:07:869 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> css selector: #current-question>button]
+2023-07-03 15:07:84 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> css selector: input#response-4]
+2023-07-03 15:07:133 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> css selector: #current-question>button]
+2023-07-03 15:07:544 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (300621be1eacd5e84db9f6ce78da1d43)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2023-07-08 15:07:648 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-08 15:07:579 INFO  StartPage :29 - click on cookies[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> xpath: //div[@class='js-confirmation-buttons govuk-button-group']/button[1]]
+2023-07-08 15:07:693 INFO  StartPage :34 - Click on Start Button[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-07-08 15:07:96 INFO  SelectNationalityPage :31 - nationality Cambodia
+2023-07-08 15:07:253 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> css selector: #current-question>button]
+2023-07-08 15:07:644 INFO  ReasonForTravelPage :64 - Select for Reason for visit[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> css selector: input#response-4]
+2023-07-08 15:07:717 INFO  SelectNationalityPage :36 - click on continue button[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> css selector: #current-question>button]
+2023-07-08 15:07:489 INFO  ResultPage :33 - Actual Result Message[[ChromeDriver: chrome on WINDOWS (a13e03e3e520bad5e41d21fb21300513)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8e2a0be-394a-40a0-9740-dd7410eeb420" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PMHW15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/RegisterPge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/com/amazon/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/com/amazon/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/com/amazon/cucumber/steps/HomepageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/com/amazon/cucumber/steps/SignInStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/resources/featurefile/homepage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/resources/featurefile/signin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/pages/RegisterPge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/main/java/com/parabank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/AccountStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/LoginStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/com/parabank/cucumber/steps/RegisterStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/featurefile/accountpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/featurefile/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-parabank-sw-3/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/desktops/DesktopsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/driverfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/homepage/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/laptopsandnotebooks/LaptopsAndNoteBooksPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/myaccounts/MyAccountsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/main/java/com/tutorialsninja/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/testsuite/DesktopsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/testsuite/LaptopsAndNotebooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/testsuite/MyAccountsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-tutorialsninja-sw-3/src/test/java/com/tutorialsninja/cucumber/testsuite/TopMenuTestP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/main/java/com/cvlibrary/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/main/java/com/cvlibrary/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/main/java/com/cvlibrary/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/main/java/com/cvlibrary/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/main/java/com/cvlibrary/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/com/cvlibrary/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/com/cvlibrary/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/com/cvlibrary/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/com/cvlibrary/cucumber/steps/ResultStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/resources/featurefile/jobsearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-library-uk/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/pages/WorkType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/main/java/com/homeoffice/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/DurationOfStayStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/FamilyImmigrationStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/HomePageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/NationalityStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/ReasonForVisitStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/ResultMessageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/com/homeoffice/cucumber/steps/WorkTypeStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/resources/featurefile/visaconfirmationtest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_office_visa/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/main/java/com/nopcommerce/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/main/java/com/nopcommerce/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/main/java/com/nopcommerce/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/main/java/com/nopcommerce/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/main/java/com/nopcommerce/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/com/nopcommerce/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/com/nopcommerce/cucumber/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/com/nopcommerce/cucumber/steps/ComputerPageStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/resources/featurefile/computerpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopcommerce/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S3QNUqUYVe3PGW0SFOkf2MtmEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/HOMEWORK/PMHW15"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8e2a0be-394a-40a0-9740-dd7410eeb420" name="Changes" comment="" />
+      <created>1688372744585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688372744585</updated>
+    </task>
+    <servers />
+  </component>
+</project>

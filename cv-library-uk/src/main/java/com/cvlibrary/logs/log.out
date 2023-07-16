@@ -1,0 +1,229 @@
+2023-07-03 16:07:421 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:731 INFO  HomePage :55 - Job Title:<jobTilte>
+2023-07-03 16:07:837 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (c85c7941eea949f4e115e7af5cd7cb4f)] -> id: location]
+2023-07-03 16:07:932 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (c85c7941eea949f4e115e7af5cd7cb4f)] -> id: distance]
+2023-07-03 16:07:50 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (c85c7941eea949f4e115e7af5cd7cb4f)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:100 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:198 INFO  HomePage :80 - salary Max500000
+2023-07-03 16:07:284 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:365 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:449 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (c85c7941eea949f4e115e7af5cd7cb4f)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:594 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:241 INFO  HomePage :55 - Job Title:<jobTilte>
+2023-07-03 16:07:360 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (fda66977104e25e483156b14b22db669)] -> id: location]
+2023-07-03 16:07:454 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (fda66977104e25e483156b14b22db669)] -> id: distance]
+2023-07-03 16:07:571 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (fda66977104e25e483156b14b22db669)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:626 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:744 INFO  HomePage :80 - salary Max500000
+2023-07-03 16:07:832 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:905 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:998 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (fda66977104e25e483156b14b22db669)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:535 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:575 INFO  HomePage :55 - Job Title:Tester
+2023-07-03 16:07:685 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (34e9e2e84aff2309e7e934b39011c595)] -> id: location]
+2023-07-03 16:07:782 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (34e9e2e84aff2309e7e934b39011c595)] -> id: distance]
+2023-07-03 16:07:913 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (34e9e2e84aff2309e7e934b39011c595)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:967 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:70 INFO  HomePage :80 - salary Max500000
+2023-07-03 16:07:150 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:227 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:315 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (34e9e2e84aff2309e7e934b39011c595)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:995 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (34e9e2e84aff2309e7e934b39011c595)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:453 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:54 INFO  HomePage :55 - Job Title:Tester
+2023-07-03 16:07:161 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (4b19b4eb9aff11d88da722933867b405)] -> id: location]
+2023-07-03 16:07:258 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (4b19b4eb9aff11d88da722933867b405)] -> id: distance]
+2023-07-03 16:07:365 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (4b19b4eb9aff11d88da722933867b405)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:418 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:522 INFO  HomePage :80 - salary Max500000
+2023-07-03 16:07:595 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:675 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:763 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (4b19b4eb9aff11d88da722933867b405)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:257 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (4b19b4eb9aff11d88da722933867b405)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:953 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:332 INFO  HomePage :55 - Job Title:Software Test Engineer
+2023-07-03 16:07:493 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (af25c938e5dfae1225cf1f2f860a6782)] -> id: location]
+2023-07-03 16:07:605 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (af25c938e5dfae1225cf1f2f860a6782)] -> id: distance]
+2023-07-03 16:07:697 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (af25c938e5dfae1225cf1f2f860a6782)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:750 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:858 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:935 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:11 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:94 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (af25c938e5dfae1225cf1f2f860a6782)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:95 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (af25c938e5dfae1225cf1f2f860a6782)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:794 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:62 INFO  HomePage :55 - Job Title:Test Engineer
+2023-07-03 16:07:203 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (69cd04edc18f31f587817d198e6ba9ae)] -> id: location]
+2023-07-03 16:07:304 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (69cd04edc18f31f587817d198e6ba9ae)] -> id: distance]
+2023-07-03 16:07:383 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (69cd04edc18f31f587817d198e6ba9ae)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:425 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:526 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:599 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:678 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:757 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (69cd04edc18f31f587817d198e6ba9ae)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:695 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (69cd04edc18f31f587817d198e6ba9ae)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:386 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:752 INFO  HomePage :55 - Job Title:Test Analyst
+2023-07-03 16:07:896 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (b0e851cd19d7d6813d95f387595306e6)] -> id: location]
+2023-07-03 16:07:05 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (b0e851cd19d7d6813d95f387595306e6)] -> id: distance]
+2023-07-03 16:07:86 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (b0e851cd19d7d6813d95f387595306e6)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:146 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:248 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:330 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:396 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:484 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (b0e851cd19d7d6813d95f387595306e6)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:153 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (b0e851cd19d7d6813d95f387595306e6)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:855 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:252 INFO  HomePage :55 - Job Title:Qa Engineer
+2023-07-03 16:07:401 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (c0a5a5246e9ae3f83a6adf5215a05bcb)] -> id: location]
+2023-07-03 16:07:506 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (c0a5a5246e9ae3f83a6adf5215a05bcb)] -> id: distance]
+2023-07-03 16:07:603 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (c0a5a5246e9ae3f83a6adf5215a05bcb)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:649 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:754 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:841 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:915 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:989 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (c0a5a5246e9ae3f83a6adf5215a05bcb)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:75 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (c0a5a5246e9ae3f83a6adf5215a05bcb)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:806 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:380 INFO  HomePage :55 - Job Title:Automation Tester
+2023-07-03 16:07:548 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (81ae52da815620b3bfb60b041bc9ee03)] -> id: location]
+2023-07-03 16:07:655 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (81ae52da815620b3bfb60b041bc9ee03)] -> id: distance]
+2023-07-03 16:07:750 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (81ae52da815620b3bfb60b041bc9ee03)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:794 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:911 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:21 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:108 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:183 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (81ae52da815620b3bfb60b041bc9ee03)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:376 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (81ae52da815620b3bfb60b041bc9ee03)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:724 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:464 INFO  HomePage :55 - Job Title:Tester
+2023-07-03 16:07:584 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (5f25bc4d0c0adec62128f76a2099baf5)] -> id: location]
+2023-07-03 16:07:682 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (5f25bc4d0c0adec62128f76a2099baf5)] -> id: distance]
+2023-07-03 16:07:808 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (5f25bc4d0c0adec62128f76a2099baf5)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:855 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:965 INFO  HomePage :80 - salary Max500000
+2023-07-03 16:07:41 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:117 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:201 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (5f25bc4d0c0adec62128f76a2099baf5)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:607 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (5f25bc4d0c0adec62128f76a2099baf5)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:294 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:681 INFO  HomePage :55 - Job Title:Software Test Engineer
+2023-07-03 16:07:847 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (83d64ca36bd8077574d28cd8e37c1d6e)] -> id: location]
+2023-07-03 16:07:953 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (83d64ca36bd8077574d28cd8e37c1d6e)] -> id: distance]
+2023-07-03 16:07:40 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (83d64ca36bd8077574d28cd8e37c1d6e)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:104 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:205 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:289 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:360 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:449 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (83d64ca36bd8077574d28cd8e37c1d6e)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:300 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (83d64ca36bd8077574d28cd8e37c1d6e)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:981 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:248 INFO  HomePage :55 - Job Title:Test Engineer
+2023-07-03 16:07:406 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (2dd15a4030660fc9678004061c3f4d20)] -> id: location]
+2023-07-03 16:07:500 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (2dd15a4030660fc9678004061c3f4d20)] -> id: distance]
+2023-07-03 16:07:599 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (2dd15a4030660fc9678004061c3f4d20)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:648 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:747 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:838 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:905 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:990 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (2dd15a4030660fc9678004061c3f4d20)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:707 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (2dd15a4030660fc9678004061c3f4d20)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:408 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:778 INFO  HomePage :55 - Job Title:Test Analyst
+2023-07-03 16:07:925 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (91f0b6f7798ffaac3b83cc961ce2e84e)] -> id: location]
+2023-07-03 16:07:19 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (91f0b6f7798ffaac3b83cc961ce2e84e)] -> id: distance]
+2023-07-03 16:07:119 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (91f0b6f7798ffaac3b83cc961ce2e84e)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:165 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:262 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:352 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:424 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:512 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (91f0b6f7798ffaac3b83cc961ce2e84e)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:123 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (91f0b6f7798ffaac3b83cc961ce2e84e)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:830 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:223 INFO  HomePage :55 - Job Title:Qa Engineer
+2023-07-03 16:07:371 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (4c586ba3c9dad39786dab1d427fb3529)] -> id: location]
+2023-07-03 16:07:469 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (4c586ba3c9dad39786dab1d427fb3529)] -> id: distance]
+2023-07-03 16:07:574 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (4c586ba3c9dad39786dab1d427fb3529)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:620 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:709 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:795 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:880 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:960 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (4c586ba3c9dad39786dab1d427fb3529)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:516 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (4c586ba3c9dad39786dab1d427fb3529)] -> css selector: h1.search-header__title]
+2023-07-03 16:07:209 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 16:07:531 INFO  HomePage :55 - Job Title:Automation Tester
+2023-07-03 16:07:686 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (86a734af66b08bb4ff3f0b1e1608b239)] -> id: location]
+2023-07-03 16:07:776 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (86a734af66b08bb4ff3f0b1e1608b239)] -> id: distance]
+2023-07-03 16:07:873 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (86a734af66b08bb4ff3f0b1e1608b239)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 16:07:931 INFO  HomePage :75 - salary min30000
+2023-07-03 16:07:34 INFO  HomePage :80 - salary Max50000
+2023-07-03 16:07:113 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 16:07:180 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 16:07:258 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (86a734af66b08bb4ff3f0b1e1608b239)] -> css selector: input#hp-search-btn]
+2023-07-03 16:07:515 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (86a734af66b08bb4ff3f0b1e1608b239)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:158 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:81 INFO  HomePage :55 - Job Title:Tester
+2023-07-03 17:07:189 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (aa8c3b65b5d45bd06cfc965b7469998c)] -> id: location]
+2023-07-03 17:07:294 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (aa8c3b65b5d45bd06cfc965b7469998c)] -> id: distance]
+2023-07-03 17:07:402 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (aa8c3b65b5d45bd06cfc965b7469998c)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:469 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:567 INFO  HomePage :80 - salary Max500000
+2023-07-03 17:07:650 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:734 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:826 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (aa8c3b65b5d45bd06cfc965b7469998c)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:457 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (aa8c3b65b5d45bd06cfc965b7469998c)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:150 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:430 INFO  HomePage :55 - Job Title:Software Test Engineer
+2023-07-03 17:07:605 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (14853d200732ce0e4a833c9296d41a80)] -> id: location]
+2023-07-03 17:07:724 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (14853d200732ce0e4a833c9296d41a80)] -> id: distance]
+2023-07-03 17:07:814 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (14853d200732ce0e4a833c9296d41a80)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:867 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:971 INFO  HomePage :80 - salary Max50000
+2023-07-03 17:07:50 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:125 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:215 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (14853d200732ce0e4a833c9296d41a80)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:270 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (14853d200732ce0e4a833c9296d41a80)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:942 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:205 INFO  HomePage :55 - Job Title:Test Engineer
+2023-07-03 17:07:357 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (78b23537f2bef9c2ff254025644346d3)] -> id: location]
+2023-07-03 17:07:445 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (78b23537f2bef9c2ff254025644346d3)] -> id: distance]
+2023-07-03 17:07:538 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (78b23537f2bef9c2ff254025644346d3)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:594 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:698 INFO  HomePage :80 - salary Max50000
+2023-07-03 17:07:783 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:854 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:941 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (78b23537f2bef9c2ff254025644346d3)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:782 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (78b23537f2bef9c2ff254025644346d3)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:474 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:710 INFO  HomePage :55 - Job Title:Test Analyst
+2023-07-03 17:07:835 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (5a632c1eafe741b0533ad26723b7d05b)] -> id: location]
+2023-07-03 17:07:937 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (5a632c1eafe741b0533ad26723b7d05b)] -> id: distance]
+2023-07-03 17:07:20 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (5a632c1eafe741b0533ad26723b7d05b)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:76 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:198 INFO  HomePage :80 - salary Max50000
+2023-07-03 17:07:271 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:341 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:429 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (5a632c1eafe741b0533ad26723b7d05b)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:349 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (5a632c1eafe741b0533ad26723b7d05b)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:31 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:330 INFO  HomePage :55 - Job Title:Qa Engineer
+2023-07-03 17:07:495 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (4b289e3f6b71ff221293d459adeffedd)] -> id: location]
+2023-07-03 17:07:605 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (4b289e3f6b71ff221293d459adeffedd)] -> id: distance]
+2023-07-03 17:07:702 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (4b289e3f6b71ff221293d459adeffedd)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:748 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:848 INFO  HomePage :80 - salary Max50000
+2023-07-03 17:07:939 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:12 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:99 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (4b289e3f6b71ff221293d459adeffedd)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:692 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (4b289e3f6b71ff221293d459adeffedd)] -> css selector: h1.search-header__title]
+2023-07-03 17:07:378 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 17:07:679 INFO  HomePage :55 - Job Title:Automation Tester
+2023-07-03 17:07:837 INFO  HomePage :60 - Location[[ChromeDriver: chrome on WINDOWS (7babd9464a90dd1fd482e2dd75b041b6)] -> id: location]
+2023-07-03 17:07:927 INFO  HomePage :65 - Distance DropDown Method[[ChromeDriver: chrome on WINDOWS (7babd9464a90dd1fd482e2dd75b041b6)] -> id: distance]
+2023-07-03 17:07:11 INFO  HomePage :70 - More Search option Link Method[[ChromeDriver: chrome on WINDOWS (7babd9464a90dd1fd482e2dd75b041b6)] -> css selector: div.hp-search-more>#toggle-hp-search]
+2023-07-03 17:07:76 INFO  HomePage :75 - salary min30000
+2023-07-03 17:07:177 INFO  HomePage :80 - salary Max50000
+2023-07-03 17:07:262 INFO  HomePage :86 - salary type dropdown methodPer annum
+2023-07-03 17:07:334 INFO  HomePage :91 - Select Job TypePermanent
+2023-07-03 17:07:410 INFO  HomePage :96 - click on findJobButton[[ChromeDriver: chrome on WINDOWS (7babd9464a90dd1fd482e2dd75b041b6)] -> css selector: input#hp-search-btn]
+2023-07-03 17:07:769 INFO  ResultPage :24 - Result Text[[ChromeDriver: chrome on WINDOWS (7babd9464a90dd1fd482e2dd75b041b6)] -> css selector: h1.search-header__title]

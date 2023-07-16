@@ -1,0 +1,433 @@
+2023-07-03 19:07:642 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:602 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:681 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:244 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:496 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (b056e78fede55cb7c149353cea9be4d0)] -> link text: Register]
+2023-07-03 19:07:232 INFO  RegisterPge :66 - Enter First Name[[ChromeDriver: chrome on WINDOWS (b056e78fede55cb7c149353cea9be4d0)] -> id: customer.firstName]
+2023-07-03 19:07:362 INFO  RegisterPge :70 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (b056e78fede55cb7c149353cea9be4d0)] -> id: customer.lastName]
+2023-07-03 19:07:445 INFO  RegisterPge :75 - Enter Address Street NameTest
+2023-07-03 19:07:542 INFO  RegisterPge :80 - Enter City Name: Test City
+2023-07-03 19:07:631 INFO  RegisterPge :85 - Enter State Name: Test State
+2023-07-03 19:07:736 INFO  RegisterPge :90 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (b056e78fede55cb7c149353cea9be4d0)] -> id: customer.address.zipCode]
+2023-07-03 19:07:821 INFO  RegisterPge :96 - Enter Phone Number: 0125422525
+2023-07-03 19:07:914 INFO  RegisterPge :101 - Enter SSN no: 152457841
+2023-07-03 19:07:04 INFO  RegisterPge :106 - Enter User NameGanesha
+2023-07-03 19:07:145 INFO  RegisterPge :113 - Enter Password: Test_12345
+2023-07-03 19:07:258 INFO  RegisterPge :117 - Enter Password: Test_12345
+2023-07-03 19:07:457 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:306 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (70d4aca97100ee82e1f514088ed04c24)] -> link text: Register]
+2023-07-03 19:07:321 INFO  RegisterPge :66 - Enter First Name[[ChromeDriver: chrome on WINDOWS (70d4aca97100ee82e1f514088ed04c24)] -> id: customer.firstName]
+2023-07-03 19:07:405 INFO  RegisterPge :70 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (70d4aca97100ee82e1f514088ed04c24)] -> id: customer.lastName]
+2023-07-03 19:07:458 INFO  RegisterPge :75 - Enter Address Street NameTest
+2023-07-03 19:07:535 INFO  RegisterPge :80 - Enter City Name: Test City
+2023-07-03 19:07:620 INFO  RegisterPge :85 - Enter State Name: Test State
+2023-07-03 19:07:710 INFO  RegisterPge :90 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (70d4aca97100ee82e1f514088ed04c24)] -> id: customer.address.zipCode]
+2023-07-03 19:07:772 INFO  RegisterPge :96 - Enter Phone Number: 0125422525
+2023-07-03 19:07:851 INFO  RegisterPge :101 - Enter SSN no: 152457841
+2023-07-03 19:07:919 INFO  RegisterPge :106 - Enter User NameGanesha
+2023-07-03 19:07:18 INFO  RegisterPge :113 - Enter Password: Test_12345
+2023-07-03 19:07:98 INFO  RegisterPge :117 - Enter Password: Test_12345
+2023-07-03 19:07:275 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 19:07:629 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (8e07b6c6bf7cc2beb42043cb82bf42d8)] -> link text: Register]
+2023-07-03 19:07:12 INFO  RegisterPge :66 - Enter First Name[[ChromeDriver: chrome on WINDOWS (8e07b6c6bf7cc2beb42043cb82bf42d8)] -> id: customer.firstName]
+2023-07-03 19:07:114 INFO  RegisterPge :70 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (8e07b6c6bf7cc2beb42043cb82bf42d8)] -> id: customer.lastName]
+2023-07-03 19:07:179 INFO  RegisterPge :75 - Enter Address Street NameTest
+2023-07-03 19:07:248 INFO  RegisterPge :80 - Enter City Name: Test City
+2023-07-03 19:07:316 INFO  RegisterPge :85 - Enter State Name: Test State
+2023-07-03 19:07:406 INFO  RegisterPge :90 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (8e07b6c6bf7cc2beb42043cb82bf42d8)] -> id: customer.address.zipCode]
+2023-07-03 19:07:476 INFO  RegisterPge :96 - Enter Phone Number: 0125422525
+2023-07-03 19:07:550 INFO  RegisterPge :101 - Enter SSN no: 152457841
+2023-07-03 19:07:616 INFO  RegisterPge :106 - Enter User NameGanesha
+2023-07-03 19:07:720 INFO  RegisterPge :113 - Enter Password: Test_12345
+2023-07-03 19:07:795 INFO  RegisterPge :117 - Enter Password: Test_12345
+2023-07-03 20:07:965 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 20:07:964 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (376319e6de86d42f72191b685aff1ce2)] -> link text: Register]
+2023-07-03 21:07:430 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:747 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (d44262c1c4f4324071a71efe5eca5278)] -> link text: Register]
+2023-07-03 21:07:231 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:808 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (8c64db2f3ec7d5cb591b3af5d8a9689a)] -> link text: Register]
+2023-07-03 21:07:281 INFO  RegisterPge :72 - Enter First Name[[ChromeDriver: chrome on WINDOWS (8c64db2f3ec7d5cb591b3af5d8a9689a)] -> id: customer.firstName]
+2023-07-03 21:07:409 INFO  RegisterPge :76 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (8c64db2f3ec7d5cb591b3af5d8a9689a)] -> id: customer.lastName]
+2023-07-03 21:07:482 INFO  RegisterPge :81 - Enter Address Street NameTest
+2023-07-03 21:07:573 INFO  RegisterPge :86 - Enter City Name: Test City
+2023-07-03 21:07:660 INFO  RegisterPge :91 - Enter State Name: Test State
+2023-07-03 21:07:850 INFO  RegisterPge :96 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (8c64db2f3ec7d5cb591b3af5d8a9689a)] -> id: customer.address.zipCode]
+2023-07-03 21:07:931 INFO  RegisterPge :102 - Enter Phone Number: 0125422525
+2023-07-03 21:07:26 INFO  RegisterPge :107 - Enter SSN no: 152457841
+2023-07-03 21:07:119 INFO  RegisterPge :112 - Enter User NameGanesha
+2023-07-03 21:07:230 INFO  RegisterPge :119 - Enter Password: Test_12345
+2023-07-03 21:07:320 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 21:07:164 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:73 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (e5ebd86c989e99fb1c3047c836478ece)] -> link text: Register]
+2023-07-03 21:07:520 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:737 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (f0c63f9bb305a5515292d3e6e7f5290f)] -> link text: Register]
+2023-07-03 21:07:281 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (f0c63f9bb305a5515292d3e6e7f5290f)] -> id: customer.firstName]
+2023-07-03 21:07:497 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (f0c63f9bb305a5515292d3e6e7f5290f)] -> id: customer.lastName]
+2023-07-03 21:07:627 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-03 21:07:768 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-03 21:07:924 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-03 21:07:118 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (f0c63f9bb305a5515292d3e6e7f5290f)] -> id: customer.address.zipCode]
+2023-07-03 21:07:257 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-03 21:07:488 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-03 21:07:623 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-03 21:07:849 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 21:07:07 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-03 21:07:622 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:684 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (08db422a3ea7df3d3dfa8f4461694dfc)] -> link text: Register]
+2023-07-03 21:07:390 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:726 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (604194465ac45a473dd4f01c9380efd6)] -> link text: Register]
+2023-07-03 21:07:626 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (604194465ac45a473dd4f01c9380efd6)] -> id: customer.firstName]
+2023-07-03 21:07:780 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (604194465ac45a473dd4f01c9380efd6)] -> id: customer.lastName]
+2023-07-03 21:07:883 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-03 21:07:986 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-03 21:07:99 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-03 21:07:236 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (604194465ac45a473dd4f01c9380efd6)] -> id: customer.address.zipCode]
+2023-07-03 21:07:316 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-03 21:07:420 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-03 21:07:512 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-03 21:07:904 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 21:07:64 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-03 21:07:673 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:64 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (d18cea95cb22ac114624bc54e83b856a)] -> link text: Register]
+2023-07-03 21:07:494 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (d18cea95cb22ac114624bc54e83b856a)] -> id: customer.firstName]
+2023-07-03 21:07:647 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (d18cea95cb22ac114624bc54e83b856a)] -> id: customer.lastName]
+2023-07-03 21:07:724 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-03 21:07:834 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-03 21:07:973 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-03 21:07:98 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (d18cea95cb22ac114624bc54e83b856a)] -> id: customer.address.zipCode]
+2023-07-03 21:07:215 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-03 21:07:332 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-03 21:07:451 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-03 21:07:595 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 21:07:718 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-03 21:07:901 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:266 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (ec7a72fc90488ceceb439ec8488a517e)] -> link text: Register]
+2023-07-03 21:07:542 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:509 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (f9051d5cef2d84267b200824dadfc4bb)] -> link text: Register]
+2023-07-03 21:07:301 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:806 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (d7f0503644d2cc0b9d9192436494442f)] -> link text: Register]
+2023-07-03 21:07:379 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:622 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:285 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:144 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 21:07:75 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (327a442e6eb8a7f44eddb73fd8a6a51a)] -> link text: Register]
+2023-07-03 22:07:319 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:145 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (18e637ce2c001f21d87ff227884fd9c6)] -> link text: Register]
+2023-07-03 22:07:382 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:963 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (29f2f117e8ad14d43d8b2fcdc539338f)] -> link text: Register]
+2023-07-03 22:07:378 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (29f2f117e8ad14d43d8b2fcdc539338f)] -> id: customer.firstName]
+2023-07-03 22:07:511 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (29f2f117e8ad14d43d8b2fcdc539338f)] -> id: customer.lastName]
+2023-07-03 22:07:574 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-03 22:07:658 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-03 22:07:755 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-03 22:07:865 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (29f2f117e8ad14d43d8b2fcdc539338f)] -> id: customer.address.zipCode]
+2023-07-03 22:07:935 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-03 22:07:37 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-03 22:07:162 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-03 22:07:285 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 22:07:389 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-03 22:07:568 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:592 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:802 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:90 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:505 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (9e7db7508da04c8255c18604244245ce)] -> link text: Register]
+2023-07-03 22:07:834 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:75 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (81666e1335d2191ff6969b4ebb53de6c)] -> link text: Register]
+2023-07-03 22:07:498 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (81666e1335d2191ff6969b4ebb53de6c)] -> id: customer.firstName]
+2023-07-03 22:07:644 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (81666e1335d2191ff6969b4ebb53de6c)] -> id: customer.lastName]
+2023-07-03 22:07:741 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-03 22:07:851 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-03 22:07:972 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-03 22:07:123 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (81666e1335d2191ff6969b4ebb53de6c)] -> id: customer.address.zipCode]
+2023-07-03 22:07:223 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-03 22:07:335 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-03 22:07:454 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-03 22:07:601 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-03 22:07:718 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-03 22:07:717 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:18 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:700 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:390 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:876 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:928 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:878 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:94 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:185 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 22:07:517 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:115 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:227 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 22:07:419 INFO  LoginPage :89 - click on login buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Log in')]'
+2023-07-03 22:07:977 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:111 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:266 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 22:07:430 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (b56eee6192a7e8ebe727609b278219ce)] -> xpath: //input[@value='Log In']]
+2023-07-03 22:07:213 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 22:07:56 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 22:07:180 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 22:07:318 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (e59491c9d92ed02aeaab5a0ea8e103d8)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:30 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:446 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:763 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 23:07:226 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (e70823488801df0f9a3b99cd9974b981)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:135 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:94 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:213 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 23:07:342 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (bd1d8339036b35ab8ada934fda9d1db2)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:641 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:590 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:747 INFO  LoginPage :76 - enter passwordTest_123456
+2023-07-03 23:07:946 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (a42e98fc116fc6dc44d956861f5e47ab)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:15 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:530 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-03 23:07:804 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-03 23:07:52 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (49e520bbf959ca9f5ef3b13a879e86c7)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:209 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:719 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:852 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:983 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (272b7737db8ea458e5e534f67aa51504)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:25 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:847 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:912 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:32 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (a2cbfb15b68def5dc4f30e10441a02ad)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:52 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:292 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:406 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:501 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (599eb599793259be413b8a1e579dc448)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:532 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:402 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:471 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:565 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (a599c06b152e92e4119774ff65cfdc03)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:608 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:856 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:16 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:193 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (488e88aec34a9d7ab62beb3765a4f8d2)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:620 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:188 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-03 23:07:329 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-03 23:07:460 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (9bc0be638a50a722bba472fe5842761f)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:860 INFO  LoginPage :95 - get error messagesProxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-07-03 23:07:94 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:151 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:281 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:459 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (2214d20f112b4a2d3e3db89e175853a7)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:899 INFO  LoginPage :95 - get error messagesProxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-07-03 23:07:148 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:220 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:300 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:433 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (269f43c954558a5526181328cf618d6f)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:02 INFO  LoginPage :95 - get error messagesProxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-07-03 23:07:267 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:91 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:205 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:321 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (3609723e4d67dac7e0b1d72c92eb99d9)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:745 INFO  LoginPage :95 - get error messagesProxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-07-03 23:07:980 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:587 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:702 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:800 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (781fe2ed6b2c570a24af07e1a8dd3841)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:232 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:730 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-03 23:07:874 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-03 23:07:28 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (85f759bae26ab20cb2288c36aa8aba62)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:454 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (85f759bae26ab20cb2288c36aa8aba62)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:509 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:995 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:123 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:225 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (d9b85f589d0b9e6060ccbc755c58c25f)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:588 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (d9b85f589d0b9e6060ccbc755c58c25f)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:672 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:597 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:675 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:810 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (635ff56fcdaa5d73e3da805b556126ed)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:171 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (635ff56fcdaa5d73e3da805b556126ed)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:993 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:822 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:924 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:04 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (0b41879b80ef85a4fe671b39d73fd2f1)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:363 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (0b41879b80ef85a4fe671b39d73fd2f1)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:110 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:22 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:86 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:186 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (a2ea8179d144ebde7acc3da969d62686)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:554 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (a2ea8179d144ebde7acc3da969d62686)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:292 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:290 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:401 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:514 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (563893a0f103339a10932597bb14d129)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:856 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (563893a0f103339a10932597bb14d129)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:253 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:590 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-03 23:07:716 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-03 23:07:832 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (68d06acdfe1d36fed33632214f20a460)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:187 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (68d06acdfe1d36fed33632214f20a460)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:139 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:78 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:185 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:290 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (6fb77ca1a7a7d3abcbdcf8c8cafe39ab)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:640 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (6fb77ca1a7a7d3abcbdcf8c8cafe39ab)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:572 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:11 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:75 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:191 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (1bc06408956fa591a3d5c0d9cd2bc386)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:531 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (1bc06408956fa591a3d5c0d9cd2bc386)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:270 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:124 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:231 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:325 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (1dac9f9d089a1de48948ce78c096dfc7)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:698 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (1dac9f9d089a1de48948ce78c096dfc7)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:427 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:312 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:372 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:454 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (d6ba69f00b8d72af637ec6b9531b93b1)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:830 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (d6ba69f00b8d72af637ec6b9531b93b1)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:544 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:549 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:663 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:795 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (12828c7e16e140145d357b774dcbf4fb)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:170 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (12828c7e16e140145d357b774dcbf4fb)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:91 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:993 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-03 23:07:100 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-03 23:07:214 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (911cb04d5e1579270c5a0ddceea9073e)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:570 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (911cb04d5e1579270c5a0ddceea9073e)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:297 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:432 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:536 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:640 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (471552d3d0635337f2e5e0a13aae54b4)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:01 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (471552d3d0635337f2e5e0a13aae54b4)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:708 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:839 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:903 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:01 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (ebc4967715b7c7ad0ae4fa44ec90a8f4)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:355 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (ebc4967715b7c7ad0ae4fa44ec90a8f4)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:44 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:570 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-03 23:07:687 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:791 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (2864a7e46e8069942e0859deae82bb9a)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:148 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (2864a7e46e8069942e0859deae82bb9a)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:860 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:40 INFO  LoginPage :71 - enterEmailId
+2023-07-03 23:07:99 INFO  LoginPage :76 - enter password
+2023-07-03 23:07:181 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (96453e0ef331611e99a15147d425a3d6)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:561 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (96453e0ef331611e99a15147d425a3d6)] -> xpath: //p[@class='error']]
+2023-07-03 23:07:308 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-03 23:07:510 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-03 23:07:617 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-03 23:07:722 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (0e5a60891fbe54381e60feaca54b5343)] -> xpath: //input[@value='Log In']]
+2023-07-03 23:07:66 INFO  LoginPage :95 - get error messages[[ChromeDriver: chrome on WINDOWS (0e5a60891fbe54381e60feaca54b5343)] -> xpath: //p[@class='error']]
+2023-07-04 00:07:483 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-04 00:07:976 INFO  HomePage :37 - click on register link :[[ChromeDriver: chrome on WINDOWS (841b12d3175ac48d235be0662747270c)] -> link text: Register]
+2023-07-04 00:07:339 INFO  RegisterPge :76 - Enter First Name[[ChromeDriver: chrome on WINDOWS (841b12d3175ac48d235be0662747270c)] -> id: customer.firstName]
+2023-07-04 00:07:429 INFO  RegisterPge :80 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (841b12d3175ac48d235be0662747270c)] -> id: customer.lastName]
+2023-07-04 00:07:475 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-04 00:07:528 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-04 00:07:595 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-04 00:07:667 INFO  RegisterPge :100 - Enter Zip Code: [[ChromeDriver: chrome on WINDOWS (841b12d3175ac48d235be0662747270c)] -> id: customer.address.zipCode]
+2023-07-04 00:07:715 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-04 00:07:787 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-04 00:07:855 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-04 00:07:933 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-04 00:07:998 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-04 00:07:521 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-04 00:07:977 INFO  LoginPage :71 - enterEmailIdGanesha
+2023-07-04 00:07:54 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-04 00:07:148 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (576055851eba718526093baea24eea76)] -> xpath: //input[@value='Log In']]
+2023-07-04 00:07:646 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-04 00:07:234 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-04 00:07:324 INFO  LoginPage :76 - enter passwordTest12345
+2023-07-04 00:07:407 INFO  LoginPage :89 - click on login button[[ChromeDriver: chrome on WINDOWS (51b42fc1c55b475e93a4bb539daa8a98)] -> xpath: //input[@value='Log In']]
+2023-07-04 00:07:19 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-04 00:07:542 INFO  LoginPage :71 - enterEmailId<ganesha1@gmail.com>
+2023-07-07 07:07:985 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:368 INFO  HomePage :37 - click on register link :[[FirefoxDriver: firefox on WINDOWS (18483d22-ed4e-4ac4-9343-2cd8edec2eb8)] -> link text: Register]
+2023-07-07 07:07:773 INFO  RegisterPge :76 - Enter First Name[[FirefoxDriver: firefox on WINDOWS (18483d22-ed4e-4ac4-9343-2cd8edec2eb8)] -> id: customer.firstName]
+2023-07-07 07:07:842 INFO  RegisterPge :80 - Enter Last Name[[FirefoxDriver: firefox on WINDOWS (18483d22-ed4e-4ac4-9343-2cd8edec2eb8)] -> id: customer.lastName]
+2023-07-07 07:07:877 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-07 07:07:916 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-07 07:07:964 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-07 07:07:28 INFO  RegisterPge :100 - Enter Zip Code: [[FirefoxDriver: firefox on WINDOWS (18483d22-ed4e-4ac4-9343-2cd8edec2eb8)] -> id: customer.address.zipCode]
+2023-07-07 07:07:66 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-07 07:07:119 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-07 07:07:160 INFO  RegisterPge :116 - Enter User NameGanesha
+2023-07-07 07:07:202 INFO  RegisterPge :123 - Enter Password: Test_12345
+2023-07-07 07:07:246 INFO  RegisterPge :127 - Enter Password: Test_12345
+2023-07-07 07:07:343 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:210 INFO  LoginPage :71 - enterEmailIdganeha@gmail.com
+2023-07-07 07:07:308 INFO  LoginPage :76 - enter passwordTest_1234
+2023-07-07 07:07:382 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (14a21594-3912-4e02-af20-34bcb805f28c)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:966 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (14a21594-3912-4e02-af20-34bcb805f28c)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:493 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:194 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-07 07:07:305 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-07 07:07:350 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (e4c35d83-5301-4cda-be8c-e3356bda8c63)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:928 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (e4c35d83-5301-4cda-be8c-e3356bda8c63)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:101 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:495 INFO  LoginPage :71 - enterEmailId
+2023-07-07 07:07:573 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-07 07:07:639 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (a23736cc-0a3a-4f5a-95c1-8d0e144d515c)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:62 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (a23736cc-0a3a-4f5a-95c1-8d0e144d515c)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:747 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:692 INFO  LoginPage :71 - enterEmailIdganesha@gmail.com
+2023-07-07 07:07:788 INFO  LoginPage :76 - enter password
+2023-07-07 07:07:823 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (9796e3f0-5457-4a5a-b092-0644bed18717)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:436 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (9796e3f0-5457-4a5a-b092-0644bed18717)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:879 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:883 INFO  LoginPage :71 - enterEmailId
+2023-07-07 07:07:932 INFO  LoginPage :76 - enter password
+2023-07-07 07:07:962 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (4e7fc777-12a0-4435-ae6a-14637eb0ae62)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:324 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (4e7fc777-12a0-4435-ae6a-14637eb0ae62)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:715 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:376 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-07 07:07:466 INFO  LoginPage :76 - enter passwordTest_12345
+2023-07-07 07:07:506 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (9284267e-5fe8-4616-bb7c-c31873aa8a9c)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:929 INFO  LoginPage :95 - get error messages[[FirefoxDriver: firefox on WINDOWS (9284267e-5fe8-4616-bb7c-c31873aa8a9c)] -> xpath: //p[@class='error']]
+2023-07-07 07:07:542 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:452 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-07 07:07:540 INFO  LoginPage :76 - enter passwordTest12345
+2023-07-07 07:07:599 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (d15b25b4-e848-4b54-8b83-5439cb612c1a)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:814 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:443 INFO  LoginPage :71 - enterEmailId<ganesha1@gmail.com>
+2023-07-07 07:07:548 INFO  LoginPage :76 - enter password<Test12345>
+2023-07-07 07:07:620 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (a9e445f8-4094-4af4-aede-12b03916b5b7)] -> xpath: //input[@value='Log In']]
+2023-07-07 07:07:137 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:608 INFO  HomePage :37 - click on register link :[[FirefoxDriver: firefox on WINDOWS (763d2f11-4e75-49ad-ab59-a0b8557ae02d)] -> link text: Register]
+2023-07-07 07:07:195 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 07:07:166 INFO  HomePage :37 - click on register link :[[FirefoxDriver: firefox on WINDOWS (9f770a9e-2efb-4e83-85da-17810565e558)] -> link text: Register]
+2023-07-07 07:07:542 INFO  RegisterPge :76 - Enter First Name[[FirefoxDriver: firefox on WINDOWS (9f770a9e-2efb-4e83-85da-17810565e558)] -> id: customer.firstName]
+2023-07-07 07:07:590 INFO  RegisterPge :80 - Enter Last Name[[FirefoxDriver: firefox on WINDOWS (9f770a9e-2efb-4e83-85da-17810565e558)] -> id: customer.lastName]
+2023-07-07 07:07:611 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-07 07:07:642 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-07 07:07:672 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-07 07:07:704 INFO  RegisterPge :100 - Enter Zip Code: [[FirefoxDriver: firefox on WINDOWS (9f770a9e-2efb-4e83-85da-17810565e558)] -> id: customer.address.zipCode]
+2023-07-07 07:07:725 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-07 07:07:752 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-07 07:07:781 INFO  RegisterPge :116 - Enter User Nameganesha1@gmail.com
+2023-07-07 07:07:808 INFO  RegisterPge :123 - Enter Password: Test12345
+2023-07-07 07:07:837 INFO  RegisterPge :127 - Enter Password: Test12345
+2023-07-07 21:07:219 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 21:07:487 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-07 21:07:551 INFO  LoginPage :76 - enter passwordTest12345
+2023-07-07 21:07:593 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (eaa1b688-ed19-46bd-9443-07a79acdb4a3)] -> xpath: //input[@value='Log In']]
+2023-07-07 21:07:762 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 21:07:683 INFO  LoginPage :71 - enterEmailIdganesha1@gmail.com
+2023-07-07 21:07:753 INFO  LoginPage :76 - enter passwordTest12345
+2023-07-07 21:07:802 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (a3b7f6ed-e42f-4762-8fe0-cf27300e81b0)] -> xpath: //input[@value='Log In']]
+2023-07-07 21:07:884 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 21:07:65 INFO  LoginPage :71 - enterEmailId<ganesha1@gmail.com>
+2023-07-07 21:07:136 INFO  LoginPage :76 - enter password<Test12345>
+2023-07-07 21:07:173 INFO  LoginPage :89 - click on login button[[FirefoxDriver: firefox on WINDOWS (85bef537-e408-4053-933c-58f79fc589c1)] -> xpath: //input[@value='Log In']]
+2023-07-07 21:07:177 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 21:07:184 INFO  HomePage :37 - click on register link :[[FirefoxDriver: firefox on WINDOWS (59727365-3d87-4fd1-8d7a-60c3ab5a62fe)] -> link text: Register]
+2023-07-07 21:07:35 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-07 21:07:825 INFO  HomePage :37 - click on register link :[[FirefoxDriver: firefox on WINDOWS (e7ca0d03-9454-41c7-85cf-e00985a1f82e)] -> link text: Register]
+2023-07-07 21:07:181 INFO  RegisterPge :76 - Enter First Name[[FirefoxDriver: firefox on WINDOWS (e7ca0d03-9454-41c7-85cf-e00985a1f82e)] -> id: customer.firstName]
+2023-07-07 21:07:235 INFO  RegisterPge :80 - Enter Last Name[[FirefoxDriver: firefox on WINDOWS (e7ca0d03-9454-41c7-85cf-e00985a1f82e)] -> id: customer.lastName]
+2023-07-07 21:07:262 INFO  RegisterPge :85 - Enter Address Street NameTest
+2023-07-07 21:07:306 INFO  RegisterPge :90 - Enter City Name: Test City
+2023-07-07 21:07:343 INFO  RegisterPge :95 - Enter State Name: Test State
+2023-07-07 21:07:381 INFO  RegisterPge :100 - Enter Zip Code: [[FirefoxDriver: firefox on WINDOWS (e7ca0d03-9454-41c7-85cf-e00985a1f82e)] -> id: customer.address.zipCode]
+2023-07-07 21:07:416 INFO  RegisterPge :106 - Enter Phone Number: 0125422525
+2023-07-07 21:07:471 INFO  RegisterPge :111 - Enter SSN no: 152457841
+2023-07-07 21:07:529 INFO  RegisterPge :116 - Enter User Nameganesha1@gmail.com
+2023-07-07 21:07:576 INFO  RegisterPge :123 - Enter Password: Test12345
+2023-07-07 21:07:611 INFO  RegisterPge :127 - Enter Password: Test12345

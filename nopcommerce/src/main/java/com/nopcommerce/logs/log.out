@@ -1,0 +1,385 @@
+2023-07-04 23:07:188 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-04 23:07:41 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:442 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:28 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:217 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:833 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:979 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:319 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:335 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:685 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:659 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:360 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 22:07:716 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:100 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:320 INFO  ComputerPage :245 - get item text[[ChromeDriver: chrome on WINDOWS (fb6f63a189c42e10a1f25763ccf7918d)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:365 INFO  ComputerPage :253 - item added msg [[ChromeDriver: chrome on WINDOWS (fb6f63a189c42e10a1f25763ccf7918d)] -> id: product_attribute_1]
+2023-07-05 23:07:463 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (fb6f63a189c42e10a1f25763ccf7918d)] -> id: product_attribute_2]
+2023-07-05 23:07:348 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:386 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:327 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:560 INFO  ComputerPage :245 - get item text[[ChromeDriver: chrome on WINDOWS (927ea2c7b7eae737a8f48d740472da2f)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:604 INFO  ComputerPage :253 - item added msg [[ChromeDriver: chrome on WINDOWS (927ea2c7b7eae737a8f48d740472da2f)] -> id: product_attribute_1]
+2023-07-05 23:07:695 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (927ea2c7b7eae737a8f48d740472da2f)] -> css selector: select#product_attribute_2]
+2023-07-05 23:07:141 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:733 INFO  ComputerPage :245 - get item text[[ChromeDriver: chrome on WINDOWS (f6648f8fa9251fcd54929320a0010015)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:786 INFO  ComputerPage :253 - item added msg [[ChromeDriver: chrome on WINDOWS (f6648f8fa9251fcd54929320a0010015)] -> id: product_attribute_1]
+2023-07-05 23:07:876 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (f6648f8fa9251fcd54929320a0010015)] -> css selector: dd>select#product_attribute_2]
+2023-07-05 23:07:797 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:779 INFO  ComputerPage :245 - get item text[[ChromeDriver: chrome on WINDOWS (4ddfcde74759fce2419cfdc1cb6ff112)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:820 INFO  ComputerPage :253 - item added msg [[ChromeDriver: chrome on WINDOWS (4ddfcde74759fce2419cfdc1cb6ff112)] -> id: product_attribute_1]
+2023-07-05 23:07:912 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (4ddfcde74759fce2419cfdc1cb6ff112)] -> css selector: dd>select#product_attribute_2]
+2023-07-05 23:07:169 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:640 INFO  ComputerPage :245 - get item text[[ChromeDriver: chrome on WINDOWS (46cf9d8880a19a777750e768a5b82452)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:697 INFO  ComputerPage :253 - item added msg [[ChromeDriver: chrome on WINDOWS (46cf9d8880a19a777750e768a5b82452)] -> id: product_attribute_1]
+2023-07-05 23:07:813 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (46cf9d8880a19a777750e768a5b82452)] -> css selector: #product_attribute_2>option]
+2023-07-05 23:07:552 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:335 INFO  ComputerPage :247 - get item text[[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> xpath: //div[@class='product-name']/h1]
+2023-07-05 23:07:381 INFO  ComputerPage :255 - item added msg [[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> id: product_attribute_1]
+2023-07-05 23:07:467 INFO  ComputerPage :260 - item added msg [[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> css selector: #product_attribute_2]
+2023-07-05 23:07:473 INFO  ComputerPage :287 - item added msg [[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-05 23:07:138 INFO  ComputerPage :304 - shopping cart message [[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> xpath: //h1]<br>
+2023-07-05 23:07:162 INFO  ComputerPage :309 - change quantity [[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-05 23:07:836 INFO  ComputerPage :325 - click on terms[[ChromeDriver: chrome on WINDOWS (7421fa5695418eac5b0626233b22e0ee)] -> id: termsofservice]
+2023-07-05 23:07:913 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-05 23:07:282 INFO  ComputerPage :337 - welcome message [[ChromeDriver: chrome on WINDOWS (25e5db8d78f950511b6dbd7b8f620481)] -> xpath: //h1]<br>
+2023-07-06 07:07:30 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:871 INFO  ComputerPage :337 - welcome message [[ChromeDriver: chrome on WINDOWS (879b18b291ea7befc22c0a390141f63a)] -> xpath: //h1]<br>
+2023-07-06 07:07:165 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:640 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:705 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> id: product_attribute_1]
+2023-07-06 07:07:883 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:702 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:375 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> xpath: //h1]<br>
+2023-07-06 07:07:428 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 07:07:172 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (338b3d8924375f21194c306abd8ac703)] -> id: termsofservice]
+2023-07-06 07:07:202 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:187 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:248 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> id: product_attribute_1]
+2023-07-06 07:07:387 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:86 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:344 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> xpath: //h1]<br>
+2023-07-06 07:07:397 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 07:07:168 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (a7157aa317559d4d41a38bce029fa34d)] -> id: termsofservice]
+2023-07-06 07:07:734 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:93 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:158 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> id: product_attribute_1]
+2023-07-06 07:07:341 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:451 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:145 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> xpath: //h1]<br>
+2023-07-06 07:07:195 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 07:07:77 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (c23557c516d8e6ca181789c9e93bacf8)] -> id: termsofservice]
+2023-07-06 07:07:881 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:261 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:333 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> id: product_attribute_1]
+2023-07-06 07:07:487 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:253 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:935 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> xpath: //h1]<br>
+2023-07-06 07:07:999 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 07:07:441 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (70711cba5cb85bdea060ad50ea3cf00e)] -> id: termsofservice]
+2023-07-06 07:07:496 INFO  ComputerPage :250 - get item textProxy element for: DefaultElementLocator 'By.xpath: //div[@class='product-name']/h1'
+2023-07-06 07:07:942 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:503 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (e77afeebd3febf00dd6dc7adff73a7ed)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:562 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (e77afeebd3febf00dd6dc7adff73a7ed)] -> id: product_attribute_1]
+2023-07-06 07:07:683 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (e77afeebd3febf00dd6dc7adff73a7ed)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:122 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (e77afeebd3febf00dd6dc7adff73a7ed)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:210 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 07:07:537 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 07:07:593 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> id: product_attribute_1]
+2023-07-06 07:07:729 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> css selector: #product_attribute_2]
+2023-07-06 07:07:886 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 07:07:550 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> xpath: //h1]<br>
+2023-07-06 07:07:638 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 07:07:736 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (9ac08be0a34b36fde0641b39e573cc42)] -> id: termsofservice]
+2023-07-06 08:07:461 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:658 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:721 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> id: product_attribute_1]
+2023-07-06 08:07:852 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:988 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:675 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> xpath: //h1]<br>
+2023-07-06 08:07:723 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:452 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (7840091579fe3975201ae6da9951edbf)] -> id: termsofservice]
+2023-07-06 08:07:733 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:160 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:232 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: product_attribute_1]
+2023-07-06 08:07:405 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:270 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:988 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> xpath: //h1]<br>
+2023-07-06 08:07:42 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:775 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: termsofservice]
+2023-07-06 08:07:116 INFO  ComputerPage :347 - firstname [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:261 INFO  ComputerPage :353 - lastname[[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:390 INFO  ComputerPage :358 - email [[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:537 INFO  ComputerPage :363 - country[[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:699 INFO  ComputerPage :363 - country[[ChromeDriver: chrome on WINDOWS (72e2e2442a28a567c00b666924eecc78)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:901 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:838 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:910 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: product_attribute_1]
+2023-07-06 08:07:66 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:942 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:744 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> xpath: //h1]<br>
+2023-07-06 08:07:847 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:111 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: termsofservice]
+2023-07-06 08:07:640 INFO  ComputerPage :347 - firstname [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:786 INFO  ComputerPage :353 - lastname[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:18 INFO  ComputerPage :358 - email [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:229 INFO  ComputerPage :363 - country[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:404 INFO  ComputerPage :368 - state [[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:648 INFO  ComputerPage :373 - city[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:969 INFO  ComputerPage :380 - address[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:998 INFO  ComputerPage :384 - zipcode[[ChromeDriver: chrome on WINDOWS (a3298cdf73eda047401139003223c829)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 08:07:560 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:620 INFO  ComputerPage :250 - get item text[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:669 INFO  ComputerPage :258 - item added msg [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: product_attribute_1]
+2023-07-06 08:07:778 INFO  ComputerPage :263 - item added msg [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:910 INFO  ComputerPage :290 - item added msg [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:171 INFO  ComputerPage :307 - shopping cart message [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> xpath: //h1]<br>
+2023-07-06 08:07:203 INFO  ComputerPage :312 - change quantity [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:112 INFO  ComputerPage :328 - click on terms[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: termsofservice]
+2023-07-06 08:07:06 INFO  ComputerPage :347 - firstname [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:106 INFO  ComputerPage :353 - lastname[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:220 INFO  ComputerPage :358 - email [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:343 INFO  ComputerPage :363 - country[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:458 INFO  ComputerPage :368 - state [[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:757 INFO  ComputerPage :373 - city[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:07 INFO  ComputerPage :380 - address[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:35 INFO  ComputerPage :384 - zipcode[[ChromeDriver: chrome on WINDOWS (5bf5be2ebe781b3c5095686d50e8ce63)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 08:07:562 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:340 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:388 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: product_attribute_1]
+2023-07-06 08:07:492 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:78 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:692 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> xpath: //h1]<br>
+2023-07-06 08:07:719 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:286 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: termsofservice]
+2023-07-06 08:07:551 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:634 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:725 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:829 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:927 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:179 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:380 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:397 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (dd39ab35cf354394f4830ae857d352e1)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 08:07:285 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:499 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:546 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: product_attribute_1]
+2023-07-06 08:07:641 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:654 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:277 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> xpath: //h1]<br>
+2023-07-06 08:07:309 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:903 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: termsofservice]
+2023-07-06 08:07:174 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:255 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:342 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:448 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:539 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:767 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:950 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:969 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (bf72add63ae8e76a15d33a64f6c2aaab)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 08:07:525 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-06 08:07:927 INFO  ComputerPage :253 - get item text[[FirefoxDriver: firefox on WINDOWS (14271d64-21df-4097-a2a4-75932a0d41f6)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:980 INFO  ComputerPage :261 - item added msg [[FirefoxDriver: firefox on WINDOWS (14271d64-21df-4097-a2a4-75932a0d41f6)] -> id: product_attribute_1]
+2023-07-06 08:07:282 INFO  ComputerPage :266 - item added msg [[FirefoxDriver: firefox on WINDOWS (14271d64-21df-4097-a2a4-75932a0d41f6)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:478 INFO  ComputerPage :293 - item added msg [[FirefoxDriver: firefox on WINDOWS (14271d64-21df-4097-a2a4-75932a0d41f6)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:725 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-06 08:07:546 INFO  ComputerPage :253 - get item text[[FirefoxDriver: firefox on WINDOWS (8f1e8b06-20d0-4a58-8785-8bfd78e74aa4)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:586 INFO  ComputerPage :261 - item added msg [[FirefoxDriver: firefox on WINDOWS (8f1e8b06-20d0-4a58-8785-8bfd78e74aa4)] -> id: product_attribute_1]
+2023-07-06 08:07:884 INFO  ComputerPage :266 - item added msg [[FirefoxDriver: firefox on WINDOWS (8f1e8b06-20d0-4a58-8785-8bfd78e74aa4)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:122 INFO  ComputerPage :293 - item added msg [[FirefoxDriver: firefox on WINDOWS (8f1e8b06-20d0-4a58-8785-8bfd78e74aa4)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:752 INFO  ManageBrowser :37 - launching firefox browser
+2023-07-06 08:07:34 INFO  ComputerPage :253 - get item text[[FirefoxDriver: firefox on WINDOWS (8d93bf62-8192-449e-9f37-551b9543e312)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:63 INFO  ComputerPage :261 - item added msg [[FirefoxDriver: firefox on WINDOWS (8d93bf62-8192-449e-9f37-551b9543e312)] -> id: product_attribute_1]
+2023-07-06 08:07:340 INFO  ComputerPage :266 - item added msg [[FirefoxDriver: firefox on WINDOWS (8d93bf62-8192-449e-9f37-551b9543e312)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:564 INFO  ComputerPage :293 - item added msg [[FirefoxDriver: firefox on WINDOWS (8d93bf62-8192-449e-9f37-551b9543e312)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:26 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:958 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:10 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: product_attribute_1]
+2023-07-06 08:07:100 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:728 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:356 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> xpath: //h1]<br>
+2023-07-06 08:07:389 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:978 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: termsofservice]
+2023-07-06 08:07:252 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:351 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:447 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:547 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:641 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:851 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:27 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:45 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (c2018c828021e6c19d168ba698801bf9)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 08:07:276 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 08:07:87 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 08:07:142 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: product_attribute_1]
+2023-07-06 08:07:249 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> css selector: #product_attribute_2]
+2023-07-06 08:07:811 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 08:07:454 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> xpath: //h1]<br>
+2023-07-06 08:07:483 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 08:07:75 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: termsofservice]
+2023-07-06 08:07:247 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 08:07:328 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 08:07:434 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 08:07:543 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 08:07:636 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:853 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 08:07:47 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 08:07:65 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (d798d8cdd6486b15e57a014dd218e013)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 17:07:375 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 17:07:147 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 17:07:190 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: product_attribute_1]
+2023-07-06 17:07:291 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> css selector: #product_attribute_2]
+2023-07-06 17:07:823 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 17:07:07 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> xpath: //h1]<br>
+2023-07-06 17:07:47 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 17:07:686 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: termsofservice]
+2023-07-06 17:07:893 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 17:07:985 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 17:07:68 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 17:07:172 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 17:07:263 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 17:07:522 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 17:07:705 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 17:07:722 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (0bdbe33e407ba46e22f8af231c0c7638)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 18:07:697 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 18:07:126 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 18:07:197 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: product_attribute_1]
+2023-07-06 18:07:328 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> css selector: #product_attribute_2]
+2023-07-06 18:07:72 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 18:07:718 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> xpath: //h1]<br>
+2023-07-06 18:07:748 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 18:07:351 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: termsofservice]
+2023-07-06 18:07:588 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 18:07:698 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 18:07:802 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 18:07:910 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 18:07:06 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 18:07:264 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 18:07:481 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 18:07:501 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (b80d92a75ebde25ed206b29d9acfaec5)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 22:07:567 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 22:07:803 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 22:07:881 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: product_attribute_1]
+2023-07-06 22:07:38 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> css selector: #product_attribute_2]
+2023-07-06 22:07:823 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 22:07:577 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> xpath: //h1]<br>
+2023-07-06 22:07:636 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 22:07:463 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: termsofservice]
+2023-07-06 22:07:907 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 22:07:26 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 22:07:158 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 22:07:280 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 22:07:409 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 22:07:657 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 22:07:892 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 22:07:910 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (091d4c0cc6135e661ed082dbd8fe744a)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 22:07:740 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 22:07:933 INFO  ComputerPage :253 - get item text[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 22:07:988 INFO  ComputerPage :261 - item added msg [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: product_attribute_1]
+2023-07-06 22:07:264 INFO  ComputerPage :266 - item added msg [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> css selector: #product_attribute_2]
+2023-07-06 22:07:591 INFO  ComputerPage :293 - item added msg [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 22:07:362 INFO  ComputerPage :310 - shopping cart message [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> xpath: //h1]<br>
+2023-07-06 22:07:462 INFO  ComputerPage :315 - change quantity [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 22:07:796 INFO  ComputerPage :331 - click on terms[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: termsofservice]
+2023-07-06 22:07:485 INFO  ComputerPage :350 - firstname [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 22:07:707 INFO  ComputerPage :356 - lastname[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 22:07:872 INFO  ComputerPage :361 - email [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 22:07:30 INFO  ComputerPage :366 - country[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 22:07:238 INFO  ComputerPage :371 - state [[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 22:07:475 INFO  ComputerPage :376 - city[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 22:07:811 INFO  ComputerPage :383 - address[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 22:07:844 INFO  ComputerPage :387 - zipcode[[ChromeDriver: chrome on WINDOWS (a03a5b42bbf5978bb0b2e4302bd21b43)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:474 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:818 INFO  ComputerPage :254 - get item text[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:875 INFO  ComputerPage :262 - item added msg [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: product_attribute_1]
+2023-07-06 23:07:973 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:504 INFO  ComputerPage :294 - item added msg [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:108 INFO  ComputerPage :311 - shopping cart message [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> xpath: //h1]<br>
+2023-07-06 23:07:134 INFO  ComputerPage :316 - change quantity [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:727 INFO  ComputerPage :332 - click on terms[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: termsofservice]
+2023-07-06 23:07:970 INFO  ComputerPage :351 - firstname [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:52 INFO  ComputerPage :357 - lastname[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:141 INFO  ComputerPage :362 - email [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:245 INFO  ComputerPage :367 - country[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:339 INFO  ComputerPage :372 - state [[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:553 INFO  ComputerPage :377 - city[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:741 INFO  ComputerPage :384 - address[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:761 INFO  ComputerPage :388 - zipcode[[ChromeDriver: chrome on WINDOWS (ab4f46a9475b068185386b8a11944662)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:390 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:304 INFO  ComputerPage :254 - get item text[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:359 INFO  ComputerPage :262 - item added msg [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: product_attribute_1]
+2023-07-06 23:07:459 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:101 INFO  ComputerPage :294 - item added msg [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:754 INFO  ComputerPage :311 - shopping cart message [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> xpath: //h1]<br>
+2023-07-06 23:07:785 INFO  ComputerPage :316 - change quantity [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:415 INFO  ComputerPage :332 - click on terms[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: termsofservice]
+2023-07-06 23:07:712 INFO  ComputerPage :351 - firstname [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:811 INFO  ComputerPage :357 - lastname[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:911 INFO  ComputerPage :362 - email [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:26 INFO  ComputerPage :367 - country[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:134 INFO  ComputerPage :372 - state [[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:361 INFO  ComputerPage :377 - city[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:565 INFO  ComputerPage :384 - address[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:582 INFO  ComputerPage :388 - zipcode[[ChromeDriver: chrome on WINDOWS (06ac13e793b850a260f68f4710971e0a)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:871 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:126 INFO  ComputerPage :254 - get item text[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:180 INFO  ComputerPage :262 - item added msg [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: product_attribute_1]
+2023-07-06 23:07:290 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:870 INFO  ComputerPage :294 - item added msg [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:492 INFO  ComputerPage :311 - shopping cart message [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> xpath: //h1]<br>
+2023-07-06 23:07:519 INFO  ComputerPage :316 - change quantity [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:114 INFO  ComputerPage :332 - click on terms[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: termsofservice]
+2023-07-06 23:07:322 INFO  ComputerPage :351 - firstname [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:427 INFO  ComputerPage :357 - lastname[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:526 INFO  ComputerPage :362 - email [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:640 INFO  ComputerPage :367 - country[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:733 INFO  ComputerPage :372 - state [[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:30 INFO  ComputerPage :377 - city[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:218 INFO  ComputerPage :384 - address[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:246 INFO  ComputerPage :388 - zipcode[[ChromeDriver: chrome on WINDOWS (d246a9fe1039640807327ecd3ab8ff62)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:501 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:169 INFO  ComputerPage :254 - get item text[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:219 INFO  ComputerPage :262 - item added msg [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: product_attribute_1]
+2023-07-06 23:07:328 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:953 INFO  ComputerPage :294 - item added msg [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:541 INFO  ComputerPage :311 - shopping cart message [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> xpath: //h1]<br>
+2023-07-06 23:07:572 INFO  ComputerPage :316 - change quantity [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:159 INFO  ComputerPage :332 - click on terms[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: termsofservice]
+2023-07-06 23:07:425 INFO  ComputerPage :351 - firstname [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:501 INFO  ComputerPage :357 - lastname[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:600 INFO  ComputerPage :362 - email [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:707 INFO  ComputerPage :367 - country[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:803 INFO  ComputerPage :372 - state [[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:39 INFO  ComputerPage :377 - city[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:235 INFO  ComputerPage :384 - address[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:258 INFO  ComputerPage :388 - zipcode[[ChromeDriver: chrome on WINDOWS (5a26206da715bc695cb7c2140489fb73)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:796 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:283 INFO  ComputerPage :254 - get item text[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:329 INFO  ComputerPage :262 - item added msg [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: product_attribute_1]
+2023-07-06 23:07:414 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:999 INFO  ComputerPage :294 - item added msg [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:642 INFO  ComputerPage :311 - shopping cart message [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> xpath: //h1]<br>
+2023-07-06 23:07:667 INFO  ComputerPage :316 - change quantity [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:301 INFO  ComputerPage :332 - click on terms[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: termsofservice]
+2023-07-06 23:07:585 INFO  ComputerPage :351 - firstname [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:665 INFO  ComputerPage :357 - lastname[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:753 INFO  ComputerPage :362 - email [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:865 INFO  ComputerPage :367 - country[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:963 INFO  ComputerPage :372 - state [[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:191 INFO  ComputerPage :377 - city[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:389 INFO  ComputerPage :384 - address[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:413 INFO  ComputerPage :388 - zipcode[[ChromeDriver: chrome on WINDOWS (d918da78f09c341867b8522b98d6b409)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-06 23:07:325 INFO  ManageBrowser :34 - launching chrome browser
+2023-07-06 23:07:787 INFO  ComputerPage :259 - get item text[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> xpath: //div[@class='product-name']/h1]
+2023-07-06 23:07:847 INFO  ComputerPage :267 - item added msg [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: product_attribute_1]
+2023-07-06 23:07:970 INFO  ComputerPage :272 - item added msg [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> css selector: #product_attribute_2]
+2023-07-06 23:07:651 INFO  ComputerPage :299 - item added msg [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-06 23:07:361 INFO  ComputerPage :316 - shopping cart message [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> xpath: //h1]<br>
+2023-07-06 23:07:413 INFO  ComputerPage :321 - change quantity [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> xpath: //input[@class='qty-input']]<br>
+2023-07-06 23:07:141 INFO  ComputerPage :337 - click on terms[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: termsofservice]
+2023-07-06 23:07:694 INFO  ComputerPage :356 - firstname [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-06 23:07:831 INFO  ComputerPage :362 - lastname[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_LastName]<br>
+2023-07-06 23:07:962 INFO  ComputerPage :367 - email [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_Email]<br>
+2023-07-06 23:07:110 INFO  ComputerPage :372 - country[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-06 23:07:261 INFO  ComputerPage :377 - state [[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:625 INFO  ComputerPage :382 - city[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-06 23:07:868 INFO  ComputerPage :389 - address[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_Address1]<br>
+2023-07-06 23:07:895 INFO  ComputerPage :393 - zipcode[[ChromeDriver: chrome on WINDOWS (2c5a01581676850be4c99a6a551e694a)] -> id: BillingNewAddress_ZipPostalCode]<br>
